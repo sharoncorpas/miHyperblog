@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color: rgba(21, 4, 49, 0.644);
+=======
+    color: rgb(219, 45, 161);
+>>>>>>> experimental
     text-align: center;
     font-family: 'Arial';
     font-size: 16px;
